@@ -34,7 +34,7 @@ This starter pack includes a basic setup for using Tailwind CSS with React. To s
     ```
 3. **Start the Development Server:**
     ```sh
-    npm run dev
+    npm run start
     ```
 4. **Open the Project in Your Browser:**
     Open [http://localhost:3000](http://localhost:3000) to view your project.
